@@ -72,8 +72,6 @@ Cloud computing is on-demand provisioning of IT resources over the internet such
 
 Compared to owning and maintaining physical IT infrastructure, it is cheaper and easier to use a cloud service provider (AWS, Microsoft Azure etc.) to provision infrastructure.
 
-*(Source: <https://aws.amazon.com/devops/>)*
-
 ## Who is using DevOps?
 
 ### 1. Amazon
@@ -81,6 +79,8 @@ Compared to owning and maintaining physical IT infrastructure, it is cheaper and
 Amazon's subsidiary Amazon Web Services (AWS) provides a range of cloud services based on DevOps principles. Amazon and other organisations use AWS cloud services to deliver a vast range of services and products to users around the world.
 
 Amazon focus on automation and use AWS tools such as CodePipeline, CodeBuild, CodeDeploy and CloudFormation to automate CI/CD workflows, build, test and deployment of code and infrastructure management.
+
+*(Source: <https://aws.amazon.com/devops/>)*
 
 ### 2. Etsy
 
