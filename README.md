@@ -56,6 +56,11 @@ Common deliverables for DevOps Engineers include:
 
 DevOps Engineers bring value to a business by streamlining the each stage of the SDLC. They ensure software is continuously delivered in an efficient and reliable way. Overall, leading to a reduction in costs, increased quality and overall productivity.
 
+| Ease of Use | Flexibility | Robustness | Cost |
+| :---: | :---: | :---: | :---: |
+| Other teams are going to use the tools that we create. They won't use them long term if they are not user friendly. | It can be easy to get locked in to using a specific software, tool or product. When that happens, it becomes much harder to keep up with industry changes. | We need as close to 100% uptime of our services as possible. | Cost is often overlooked. We need to make sure the company is being as efficient as possible in it's tech dealings. |
+| If the developers (or other teams) do not use our tools then there will be headaches/delays in the deployment down the line. | Everything the company uses should be easily changed or updated as the business needs. | As DevOps engineers, this is OUR responsibility. | For example, how powerful a machine do we need to run a service/conduct a task. Do we need a certain amount of servers running? Etc. |
+
 ## How do DevOps Engineers fit into the SDLC?
 
 DevOps Engineers are involved at each stage of the SDLC. From planning and development, through to deployment and monitoring, they work with all teams to ensure the software is streamlined, the CI/CD pipeline is managed and the product is deployed and monitored properly.
